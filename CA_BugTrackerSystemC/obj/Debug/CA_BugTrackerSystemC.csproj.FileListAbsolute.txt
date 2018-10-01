@@ -1,0 +1,16 @@
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\CA_BugTrackerSystemC.exe.config
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\CA_BugTrackerSystemC.exe
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\CA_BugTrackerSystemC.pdb
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\EntityFramework.dll
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\EntityFramework.xml
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\obj\Debug\CA_BugTrackerSystemC.csprojAssemblyReference.cache
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\obj\Debug\CA_BugTrackerSystemC.csproj.CoreCompileInputs.cache
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\obj\Debug\CA_BugTrackerSystemC.csproj.CopyComplete
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\obj\Debug\CA_BugTrackerSystemC.exe
+C:\Users\Gercules\Documents\Visual Studio 2017\Projects\CA_BugTrackerSystemC\CA_BugTrackerSystemC\obj\Debug\CA_BugTrackerSystemC.pdb
