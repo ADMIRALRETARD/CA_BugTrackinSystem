@@ -11,7 +11,10 @@ namespace CA_BugTrackerSystemC
     {
         static void Main(string[] args)
         {
-            
+            	//TODO:
+		//1)Сделать меню
+		//2)Исключения
+		//3)Декомпозировать методы
             Console.ReadLine();
 
         }
